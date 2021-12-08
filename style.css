@@ -1,0 +1,151 @@
+.green-bold {
+    font-weight: 500;
+    color: #719b1d;
+    text-decoration: none;
+}
+
+.black-thin {
+    font-weight: 100;
+    color: black;
+    display: inline-flex;
+}
+
+.top-section {
+    background-color: #719b1d;
+    color: white;
+    font-size: 20px;
+}
+
+
+.gradient-custom-super-brand {
+    /* fallback for old browsers */
+    background: #cce60a;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to left, rgba(204, 230, 10, 0.5), rgba(149, 187, 166, 0.5));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to left, rgba(204, 230, 10, 0.5), rgba(149, 187, 166, 0.5))
+}
+
+.text-grey {
+    color: #696969 !important;
+}
+
+
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+.py-3 {
+    padding-bottom: 0.75rem;
+    padding-top: 0.75rem;
+}
+
+.py-2 {
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.py-32 {
+    padding-bottom: 8rem;
+    padding-top: 8rem;
+}
+
+.py-4 {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.py-5 {
+    padding-bottom: 1.25rem;
+    padding-top: 1.25rem;
+}
+
+.px-10 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+
+.mt-20 {
+    margin-top: 5rem;
+}
+
+.mb-10 {
+    margin-bottom: 2.5rem;
+}
+
+.roboto-font {
+    font-family: 'Roboto'
+}
+
+.text-size-big {
+    font-size: 1.5rem;
+}
+
+.fs-7 {
+    font-size: 0.875rem;
+}
+
+
+ul a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+h6 {
+    color: #719b1d;
+}
+
+.bg-success {
+    background-color: #719b1d !important;
+}
+
+.text-success {
+    color: #719b1d !important;
+}
+
+.bg-success-light {
+    background-color: #83B228 !important;
+}
+
+.rounded-4 {
+    border-radius: 6px;
+}
+
+.rounded-6 {
+    border-radius: 4px;
+}
+
+
+.image-width {
+    width: 75px;
+}
+
+.image-width-6 {
+    width: 60px;
+}
+
+.image-height {
+    height: 60px;
+}
+
+.image-height-4 {
+    height: 45px;
+}
+
+.sidebar-color {
+    color: #000000; 
+    text-decoration: none;
+}
